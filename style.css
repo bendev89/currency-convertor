@@ -11,6 +11,7 @@ body{
     height: 100vh;
     padding: 20px;
     background-color: rgba(233, 231, 230, 0.788);
+    font-family: "Roboto", sans-serif;
     
 }
 
@@ -19,11 +20,14 @@ img{
     height: 150px;
     
 }
+h1{
+    color: rgb(58, 167, 134);;
+}
 p {
     text-align: center;
 }
 .btn{
-    background-color: rgb(58, 167, 134); ;
+    background-color: rgb(58, 167, 134); 
     cursor: pointer;
     border-radius: 5px;
     padding: 5px 10px;
@@ -65,4 +69,5 @@ button:focus {
 .rate{
     padding: 0 10px;
     font-size: 14px;
+    color: rgb(58, 167, 134);;
 }
